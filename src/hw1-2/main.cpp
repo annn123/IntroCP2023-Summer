@@ -41,11 +41,7 @@ int main()
     }
     
     b=halfh*halfw;
-    cout<<h<<endl;
-    cout<<w<<endl;
-    cout<<b<<endl;
-    cout<<halfh<<endl;
-    cout<<halfw<<endl;
+    
     cout<<ta/b<<" "<<tb/b<<endl;
     cout<<tc/b<<" "<<td/b<<endl;
     
